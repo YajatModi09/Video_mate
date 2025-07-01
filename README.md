@@ -1,7 +1,5 @@
 # Video_mate
-Sure! Here's a professional and detailed `README.md` file tailored for your full-stack **video-sharing/social platform backend** (based on the controllers and routes you've shared: user, video, comment, tweet, playlist, subscription, and auth).
 
----
 
 # 🎥 Video Sharing Platform - Backend API
 
